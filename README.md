@@ -27,9 +27,6 @@
 - Indicator 추가 (2021.02.01)
 - 서브젝트를 진행한 사람이 많은 경우를 대비해, 최대 검색 페이지수 제한 (2021.02.20)
 
-### 개발 관련 기술 정리, 썰
-- <a href="https://developing-sunny.tistory.com/13"> [42Seoul] 42api를 이용한 아이패드 앱 FIND42PEERS 개발기 (부제 : 42api 사용법, 42 해커톤) by sunhpark </a>
-
 ## 📱 지원
 * iOS 14.0+
 * iPad
