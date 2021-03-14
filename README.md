@@ -54,9 +54,6 @@
 
 * 다크모드도 지원합니다 (속닥속닥)
 
-### Youtube 링크는 여기로
-* [🎥DemoVideo(최종, 아이패드 시뮬레이터)](https://youtu.be/8RzC3rT-n9c)
-
 ## ✏️  사용 언어
 <img src="https://img.shields.io/badge/swift-v5.1-orange?logo=swift" />
 
